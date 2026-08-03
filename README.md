@@ -9,5 +9,5 @@ Project Description: "This is where the project description is entered"
 Technologies Used: "This is where you input technologies used"
 Installation Instructions: "All installation insctructions go here"
 
-git add .
-git commit -m "Initial Repository Setup"
+
+
